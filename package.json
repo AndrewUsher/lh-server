@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@lhci/server": "^0.6.0",
-    "pg": "^7.12.1",
+    "pg": "^8.0.0",
     "pg-hstore": "^2.3.3"
   }
 }
